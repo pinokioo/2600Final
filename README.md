@@ -1,6 +1,6 @@
 ## Binary Search Tree Tutorial
 
-[Let's get the tutorial!](https://github.com/pinokioo/2600Final/blob/master/tutorial.md)
+[Let's get the tutorial!](https://github.com/pinokioo/2600Final/blob/master/Tutorial.md)
 
 Author: Frances Liu
 
